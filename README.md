@@ -1,4 +1,4 @@
-![Myntra Navbar](https://github.com/user-attachments/assets/e32b54c6-364b-41da-b69d-533bc78981fe)# 👗 Myntra Clone - Frontend Project
+👗 Myntra Clone - Frontend Project
 
 This is a frontend clone of the Myntra e-commerce website. It is built using **HTML**, **CSS**, and **JavaScript** to replicate the design and basic functionality of the original Myntra site.
 
